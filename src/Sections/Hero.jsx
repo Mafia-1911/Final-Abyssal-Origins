@@ -2,7 +2,7 @@ import React from 'react'
 
 const Hero = () => {
   const redirectToGame = () => {
-    window.location.href = 'https://mafia-1911.github.io/test-game/'; // Replace with the desired URL
+    window.location.href = 'https://mafia-1911.github.io/final-game-build/'; // Replace with the desired URL
   }
   return (
     <section class="hero-section">
@@ -10,7 +10,7 @@ const Hero = () => {
     <div class="hero-content">
       <h1>Explore the Depths of the Sea</h1>
       <p>Discover the wonders of the ocean, learn about marine life, and explore underwater ecosystems.</p>
-      <a href="#learn-more" class="btn btn-primary" onClick={redirectToGame}>PLAY THE GAME</a>
+      <button class="btn btn-pimary" onClick={redirectToGame}>PLAY THE GAME</button>
     </div>
   </section>
   )
