@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-#System Architecture 
+# System Architecture 
 ![System Architecture](https://github.com/user-attachments/assets/df0be184-2f25-4078-bba8-9726a3dca733)
 
 
