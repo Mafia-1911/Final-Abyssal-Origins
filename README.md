@@ -7,10 +7,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 
 
-Live Website : https://mafia-1911.github.io/Final-Abyssal-Origins/ 
-Live Game Build : https://mafia-1911.github.io/final-game-build/ 
-Live Website Repo : https://github.com/Mafia-1911/Final-Abyssal-Origins [main submission code] 
-Live Game Build Repo : https://github.com/Mafia-1911/final-game-build
+Live Website : https://mafia-1911.github.io/Final-Abyssal-Origins/ \
+Live Game Build : https://mafia-1911.github.io/final-game-build/ \
+Live Website Repo : https://github.com/Mafia-1911/Final-Abyssal-Origins [main submission code] \
+Live Game Build Repo : https://github.com/Mafia-1911/final-game-build \
 
 ## Available Scripts
 In the project directory, you can run:
